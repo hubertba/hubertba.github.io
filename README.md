@@ -1,4 +1,4 @@
-![Logo](imgs/chilicode_logo.png)
+![Logo](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/chilicode_logo.png)
 
 
 ## Hubert Baumgartner
