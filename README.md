@@ -4,6 +4,13 @@
 ## Hubert Baumgartner
 ![Logo](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/chilicode_logo.png)
 
+------------ | -------------
+name: | Hubert Baumgartner
+birthdate: | 5. march 1982
+address: | Dr. Galambos-Gasse 12, 7502 Unterwart, Austria
+email: | hubert.baumgartner@chilicode.com
+website: | https:www.chilicode.com
+
 
 
 You can use the [editor on GitHub](https://github.com/hubertba/hubertba.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
