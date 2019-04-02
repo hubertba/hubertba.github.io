@@ -1,8 +1,8 @@
-<img align="right" src="https://github.com/hubertba/hubertba.github.io/blob/master/imgs/profile.jpeg">
+<img align="right" src="{{ site.baseurl }}imgs/profile.jpeg">
 
 
 ## Hubert Baumgartner
-![Logo](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/chilicode_logo.png)
+![Logo]({{ site.baseurl }}imgs/chilicode_logo.png)
 
 name: | Hubert Baumgartner
 ------------ | -------------
