@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+![Logo](imgs/chilicode_logo.png)
+
+
+## Hubert Baumgartner
+ChiliCode
+
+
 
 You can use the [editor on GitHub](https://github.com/hubertba/hubertba.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
