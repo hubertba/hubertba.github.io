@@ -9,7 +9,7 @@ email: | hubert.baumgartner@chilicode.com
 website: | https://www.chilicode.com
 
 
-I am a software developer with 17 years of development experience. I started my carreer on the Technical Univeristy of Vieanna. Working in the department for Softwareengineering sharpend my knowledge about software-develment processes. With a strong coding background over multiple programming-languages I started to focus on automation of processes and continuous integration/deployment as a working practise together with building the needed infrastructure.
+I am a software developer with 17 years of development experience. I started my carreer on the Technical Univeristy of Vienna. Working in the department for Softwareengineering sharpend my knowledge about software-develment processes. With a strong coding background over multiple programming-languages I started to focus on automation of processes and continuous integration/deployment as a working practise together with building the needed infrastructure.
 Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the countinuous way as well as implementing services and plugins for different infrastructures.
 
 # skills
