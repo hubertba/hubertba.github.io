@@ -9,38 +9,34 @@ email: | hubert.baumgartner@chilicode.com
 website: | https://www.chilicode.com
 
 
+I am a software developer with 17 years of development experience. I started my carreer on the Technical Univeristy of Vieanna. Working in the department for Softwareengineering sharpend my knowledge about software-develment processes. With a strong coding background over multiple programming-languages I started to focus on automation of processes and continuous integration/deployment as a working practise together with building the needed infrastructure.
+Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the countinuous way as well as implementing services and plugins for different infrastructures.
 
-You can use the [editor on GitHub](https://github.com/hubertba/hubertba.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###skills
+Software Development, Agile Methodologies, Continuous Integration, Jenkins, Process Development, Web Development, Integration
+Business Development, Start-ups, Entrepreneurship, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### education
 
-```markdown
-Syntax highlighted code block
+1988 - 1992 	Volksschule Oberwart 1992 - 2000 	Zweisprachiges Bundesgymnasium Oberwart 2000- jetzt	Computer Science, TU Wien -  Software and Information Engineering
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### work experiance
 
-1. Numbered
-2. List
+##Technical Univerisity of Vienna
+### 2002 - 2005
+In my role as an assistent to the lecturing tutor, I wrote and review scripts for lectures, wrote and reviewed exams and held weekly meetings with groups of students to monitor their progress and help them to prepare for the exams.
 
-**Bold** and _Italic_ and `Code` text
+##ChiliCode
+### 2007 - now
+ChiliCode is a small austrian software development and IT support company. We provide IT-support and consultance to our customers, help them to build up IT-infrastructure like networks and backupstrategies. Help them to install, create and maintain homepages or create mobile-office solutions for them (webmail, webcalder, contacts … ). We create custom softwaresolutions for adminstrative tasks, webapplications and software solutions to support their workday. Further we are in the development of all kinds of applications. From database servers with synchronsation, over Java application to web applications and iOS apps.
 
-[Link](url) and ![Image](src)
-```
+##Bosch
+### 2005 - now
+As a consultant at Bosch I support the DELib Team which supplies a single-source library for actuators and sensors for customers in the automotive sector around the world. My main topics there evolved from automation of code-generation, over configuration-based-code-generation over to continuous integration as a work practice. Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the countinuous way as well as implementing services and plugins for different infrastructures.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hubertba/hubertba.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
