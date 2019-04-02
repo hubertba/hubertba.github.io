@@ -4,8 +4,8 @@
 ## Hubert Baumgartner
 ![Logo](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/chilicode_logo.png)
 
------------- | -------------
 name: | Hubert Baumgartner
+------------ | -------------
 birthdate: | 5. march 1982
 address: | Dr. Galambos-Gasse 12, 7502 Unterwart, Austria
 email: | hubert.baumgartner@chilicode.com
