@@ -1,3 +1,4 @@
+![Logo](imgs/chilicode_logo.png)
 
 
 ## Hubert Baumgartner
