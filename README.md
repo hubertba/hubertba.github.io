@@ -9,7 +9,7 @@ name: | Hubert Baumgartner
 birthdate: | 5. march 1982
 address: | Dr. Galambos-Gasse 12, 7502 Unterwart, Austria
 email: | hubert.baumgartner@chilicode.com
-website: | https:www.chilicode.com
+website: | https://www.chilicode.com
 
 
 
