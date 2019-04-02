@@ -2,7 +2,7 @@
 
 
 ## Hubert Baumgartner
-![Logo]({{ site.baseurl }}imgs/chilicode_logo.png)
+![Logo](imgs/chilicode_logo.png)
 
 name: | Hubert Baumgartner
 ------------ | -------------
