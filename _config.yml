@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: [Hubert Baumgartner]
-description: [resume]
+title: Hubert Baumgartner
+description: resume
 
-logo: [imgs/profile.jpeg]
+logo: /imgs/profile.jpeg
