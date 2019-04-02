@@ -1,4 +1,4 @@
-## Hubert Baumgartner
+#Hubert Baumgartner
 ![Logo](imgs/chilicode_logo.png)
 
 name: | Hubert Baumgartner
@@ -12,20 +12,20 @@ website: | https://www.chilicode.com
 I am a software developer with 17 years of development experience. I started my carreer on the Technical Univeristy of Vieanna. Working in the department for Softwareengineering sharpend my knowledge about software-develment processes. With a strong coding background over multiple programming-languages I started to focus on automation of processes and continuous integration/deployment as a working practise together with building the needed infrastructure.
 Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the countinuous way as well as implementing services and plugins for different infrastructures.
 
-###skills
+#skills
 Software Development, Agile Methodologies, Continuous Integration, Jenkins, Process Development, Web Development, Integration
 Business Development, Start-ups, Entrepreneurship, 
 
 
 
-### education
+#education
 
 1988 - 1992 	Volksschule Oberwart
  1992 - 2000 	Zweisprachiges Bundesgymnasium Oberwart 
 2000- jetzt	Computer Science, TU Wien -  Software and Information Engineering
 
 
-### work experiance
+#work experiance
 
 ##Technical Univerisity of Vienna
 ### 2002 - 2005
@@ -40,6 +40,3 @@ ChiliCode is a small austrian software development and IT support company. We pr
 As a consultant at Bosch I support the DELib Team which supplies a single-source library for actuators and sensors for customers in the automotive sector around the world. My main topics there evolved from automation of code-generation, over configuration-based-code-generation over to continuous integration as a work practice. Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the countinuous way as well as implementing services and plugins for different infrastructures.
 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
