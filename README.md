@@ -1,8 +1,8 @@
-![Logo](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/chilicode_logo.png)
+![Profile](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/profile.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 ## Hubert Baumgartner
-ChiliCode
+![Logo](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/chilicode_logo.png)
 
 
 
