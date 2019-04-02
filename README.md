@@ -1,4 +1,4 @@
-![Profile](https://github.com/hubertba/hubertba.github.io/blob/master/imgs/profile.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img align="right" src="https://github.com/hubertba/hubertba.github.io/blob/master/imgs/profile.jpeg">
 
 
 ## Hubert Baumgartner
