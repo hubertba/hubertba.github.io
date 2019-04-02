@@ -1,6 +1,3 @@
-<img align="right" src="{{ site.baseurl }}imgs/profile.jpeg">
-
-
 ## Hubert Baumgartner
 ![Logo](imgs/chilicode_logo.png)
 
