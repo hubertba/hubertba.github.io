@@ -29,7 +29,7 @@ Business Development, Start-ups, Entrepreneurship,
 
 ## Technical University of Vienna
 ### 2002 - 2005
-In my role as an assistant to the lecturing tutor, I wrote and review scripts for lectures, wrote and reviewed exams and held weekly meetings with groups of students to monitor their progress and help them to prepare for the exams.
+In my role as an assistant to the lecturing tutor, I wrote and reviewed scripts for lectures, wrote and reviewed exams and held weekly meetings with groups of students to monitor their progress and help them to prepare for the exams.
 
 ## ChiliCode
 ### 2007 - now
