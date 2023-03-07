@@ -13,7 +13,7 @@ I am a software developer with 23 years of development experience. I started my 
 Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the continuous way as well as implementing services and plugins for different infrastructures.
 
 # skills
-Software Development, Agile Methodologies, Continuous Integration, Jenkins, Process Development, Web Development, Integration
+Software Development, Agile Methodologies, Continuous Integration, Jenkins, Process Development, Web Development,
 Business Development, Start-ups, Entrepreneurship, 
 
 
