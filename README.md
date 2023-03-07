@@ -20,9 +20,9 @@ Business Development, Start-ups, Entrepreneurship,
 
 # education
 
-*1988 - 1992  | 	Volksschule Oberwart
-*1992 - 2000 | Zweisprachiges Bundesgymnasium Oberwart
-*2000 - now | Computer Science, TU Wien -  Software and Information Engineering  
+1988 - 1992  | 	Volksschule Oberwart
+1992 - 2000 | Zweisprachiges Bundesgymnasium Oberwart
+2000 - now | Computer Science, TU Wien -  Software and Information Engineering
 
 
 # work experience
@@ -52,6 +52,9 @@ Speaker at the Grazer Symposion for Virtual Vehicle. Topic: Continuous Integrati
 ### GSVF 2021
 Speaker with a talk about Scaling Continuous Integration from local teams, over on-premise server farms to public cloud. In this presentation I describe what parameters we use to decide where to run what and which boudaries we have to take care of on our way into the cloud.
 I also lead a round-table discusion about Continuous Integration as Driver for the Transformation from a Document Driven to a Data Driven Business where I elaborated with the participants on where we gained deeper knowledge about our business processes when we moved from a document, mostly excel based approach to a data-driven approach supported by databases, data-lakes and data-warehouses.
+
+### AZ400T00: Designing and Implementing Microsoft DevOps Solutions
+Taking the training for Designing and Implementing Microsoft DevOps Solutions and implementing first cloud-native services 
 
 
 # languages
