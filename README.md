@@ -65,7 +65,7 @@ Taking the training for Designing and Implementing Microsoft DevOps Solutions an
 German, English and Hungerian fluent in speaking, reading and writing.
 
 # special skills
-musician on drums ( learned in a music-school for 13years) and bassoon (learned in musical university for 6 years)
+musician on drums ( learned in a music-school for 13years) and bassoon (learned in musical university for 6 years), voluntary trainer at a youth basketball team
 
 
 
