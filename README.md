@@ -41,7 +41,11 @@ As a consultant at Bosch I support the DELib Team which supplies a single-source
 
 ## Bosch
 ### 2022 - now
-As an intern I cover the role of an "Technical Expert" for Continous Development Methods and Operations. I work with my team which is spread across Germany, Austria, India and Vietnam on enabeling 15.000 developers to develop in a modern methodology with state-of-the-art tools in a way so fullfill our legislative requirements for creating embedded software for the automotive industry.
+As an intern I cover the role of an "Technical Expert" for Continous Development Methods and Operations. I work with my team which is spread across Germany, Austria, India and Vietnam on enabeling 20.000 developers to develop in a modern methodology with state-of-the-art tools in a way so fullfill our legislative requirements for creating embedded software for the automotive industry.
+
+## Bosch
+### 2024 - now
+Since september 2024 I officially also have the role as an head of agile planning strategy at our department. Focusing on getting the right mindeset and culture together with the most importantant basics of agility into the organization. 
 
 
 # Special Higlights
