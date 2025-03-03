@@ -29,23 +29,27 @@ Business Development, Start-ups, Entrepreneurship,
 
 ## Technical University of Vienna
 ### 2002 - 2005
-In my role as an assistant to the lecturing tutor, I wrote and reviewed scripts for lectures, wrote and reviewed exams and held weekly meetings with groups of students to monitor their progress and help them to prepare for the exams.
+In my role as an assistant to the lecturing tutor, I wrote and reviewed scripts for lectures, wrote and reviewed exams, and held weekly meetings with groups of students to monitor their progress and help them prepare for the exams. During that time, I was already working in the field of Software Development Processes, getting my hands on a copy of 'Extreme Programming' by Kent Beck, which fueled my mind with ideas on how to improve work.
 
 ## ChiliCode
 ### 2007 - now
-ChiliCode is a small Austrian software development and IT support company. We provide IT-support and consultancy to our customers, help them to build up IT-infrastructure like networks and backup-strategies. Help them to install, create and maintain homepages or create mobile-office solutions for them (webmail, web calendar, contacts … ). We create custom software solutions for administrative tasks, web applications and software solutions to support their workday. Further we are in the development of all kinds of applications. From database servers with synchronisation, over Java application to web applications and iOS apps.
+ChiliCode is a small Austrian software development and IT support company. We provide IT support and consultancy to our customers, helping them build IT infrastructure such as networks and backup strategies. We assist with installing, creating, and maintaining homepages, as well as creating mobile office solutions (webmail, web calendar, contacts, etc.). We develop custom software solutions for administrative tasks, web applications, and software to support their daily work. Additionally, we are involved in the development of various types of applications, ranging from database servers with synchronization to Java applications, web applications, and iOS apps. We build private cloud solutions for our customers and consult with them on the use of modern tools and applications according to their needs.
+
+## ChiliCode
+### 2023 - now
+As a holder of a 'Certified Digital Consultant' certification, I am authorized to support and conduct publicly funded projects for and with my customers to assist them on their journey to digitalization.
 
 ## Bosch
 ### 2005 - 2022
-As a consultant at Bosch I support the DELib Team which supplies a single-source library for actuators and sensors for customers in the automotive sector around the world. My main topics there evolved from automation of code-generation, over configuration-based-code-generation over to continuous integration as a work practice. Currently my focus is on supporting the development of continuous integration within Bosch both on the side of the needed transformation from a tool based world over to the continuous way as well as implementing services and plugins for different infrastructures.
+As a consultant at Bosch, I support the DELib Team, which supplies a single-source library for actuators and sensors to customers in the automotive sector worldwide. My main responsibilities have evolved from automating code generation and configuration-based code generation to implementing continuous integration as a work practice. Currently, my focus is on supporting the development of continuous integration within Bosch, both in terms of the necessary transformation from a tool-based environment to a continuous integration approach, as well as implementing services and plugins for different infrastructures.
 
 ## Bosch
 ### 2022 - now
-As an intern I cover the role of an "Technical Expert" for Continous Development Methods and Operations. I work with my team which is spread across Germany, Austria, India and Vietnam on enabeling 20.000 developers to develop in a modern methodology with state-of-the-art tools in a way so fullfill our legislative requirements for creating embedded software for the automotive industry.
+As an intern, I cover the role of a 'Technical Expert' for Continuous Development Methods and Operations. I work with my team, which is spread across Germany, Austria, India, and Vietnam, to enable 20,000 developers to work with modern methodologies and state-of-the-art tools while fulfilling our legislative requirements for creating embedded software for the automotive industry.
 
 ## Bosch
 ### 2024 - now
-Since september 2024 I officially also have the role as an head of agile planning strategy at our department. Focusing on getting the right mindeset and culture together with the most importantant basics of agility into the organization. 
+Since September 2024, I have officially also taken on the role of Head of Agile Planning Strategy in our department. My focus is on fostering the right mindset and culture, along with the most important basics of agility, within the organization.
 
 
 # Special Higlights
