@@ -62,9 +62,9 @@ Speaker with a talk about Scaling Continuous Integration from local teams, over 
 I also lead a round-table discusion about Continuous Integration as Driver for the Transformation from a Document Driven to a Data Driven Business where I elaborated with the participants on where we gained deeper knowledge about our business processes when we moved from a document, mostly excel based approach to a data-driven approach supported by databases, data-lakes and data-warehouses.
 
 ### QED 2025
-Speaker at QED https://qed.croz.net As a software engineer at Bosch with 25 years of experience, I recently spoke about a key project: building a new collaboration and development environment for Bosch Mobility. A central theme of my talk was scaling this ecosystem from 500 to a potential 20,000 developers. I discussed how we develop and integrate software solutions, working with cross-functional teams to align components with hardware and uphold Bosch's quality standards. For the past two decades, I've focused on creating a better ecosystem for developers, fostering innovation and efficiency. My presentation highlighted this ongoing commitment to improving our processes and tackling technical challenges.
+Speaker at [QED](https://qed.croz.net). As a software engineer at Bosch with 25 years of experience, I recently spoke about a key project: building a new collaboration and development environment for Bosch Mobility. A central theme of my talk was scaling this ecosystem from 500 to a potential 20,000 developers. I discussed how we develop and integrate software solutions, working with cross-functional teams to align components with hardware and uphold Bosch's quality standards. For the past two decades, I've focused on creating a better ecosystem for developers, fostering innovation and efficiency. My presentation highlighted this ongoing commitment to improving our processes and tackling technical challenges.
 
-Recording can be found here: https://www.youtube.com/watch?v=Wwg5CeW5GMA
+Recording can be found here: [QED Talk on Youtube](https://www.youtube.com/watch?v=Wwg5CeW5GMA)
 
 ### AZ400T00: Designing and Implementing Microsoft DevOps Solutions
 Taking the training for Designing and Implementing Microsoft DevOps Solutions and implementing first cloud-native services 
