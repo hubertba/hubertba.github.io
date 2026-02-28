@@ -24,7 +24,7 @@ Business Development, Start-ups, Entrepreneurship,
 
 1988 - 1992  | 	Volksschule Oberwart
 1992 - 2000 | Zweisprachiges Bundesgymnasium Oberwart
-2000 - now | Computer Science, TU Wien -  Software and Information Engineering
+2000 -  | Computer Science, TU Wien -  Software and Information Engineering
 
 
 # Work Experience
