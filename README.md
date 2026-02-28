@@ -10,9 +10,9 @@ website: | https://www.chilicode.com
 
 ---
 
-**Software developer** with 25 years of experience. I started my path at TU Wien in Software Engineering and later founded ChiliCode, combining academic rigour with entrepreneurship. I care about solid processes, automation, and continuous integration as a daily practice, not just as tools.
+**Software developer** with 25 years of experience. I started my path at TU Wien in Software Engineering and later founded [ChiliCode](https://www.chilicode.com), combining academic rigour with entrepreneurship. I care about solid processes, automation, and continuous integration as a daily practice, not just as tools.
 
-Today I support continuous integration across Bosch: guiding the shift from tool-centric workflows to a truly continuous way of working, and building services and plugins for diverse infrastructures. I aim to help teams ship better, more reliably.
+Today I support continuous integration across [Bosch](https://www.bosch.at): guiding the shift from tool-centric workflows to a truly continuous way of working, and building services and plugins for diverse infrastructures. I aim to help teams ship better, more reliably.
 
 # Skills
 Software Development, Agile Methodologies, Continuous Integration, Jenkins, Process Development, Web Development,
@@ -33,23 +33,23 @@ Business Development, Start-ups, Entrepreneurship,
 ### 2002 - 2005
 In my role as an assistant to the lecturing tutor, I wrote and reviewed scripts for lectures, wrote and reviewed exams, and held weekly meetings with groups of students to monitor their progress and help them prepare for the exams. During that time, I was already working in the field of Software Development Processes, getting my hands on a copy of 'Extreme Programming' by Kent Beck, which fueled my mind with ideas on how to improve work.
 
-## Bosch
+## [Bosch](https://www.bosch.at)
 ### 2005 - 2022
 As a consultant at Bosch, I support the DELib Team, which supplies a single-source library for actuators and sensors to customers in the automotive sector worldwide. My main responsibilities have evolved from automating code generation and configuration-based code generation to implementing continuous integration as a work practice. Currently, my focus is on supporting the development of continuous integration within Bosch, both in terms of the necessary transformation from a tool-based environment to a continuous integration approach, as well as implementing services and plugins for different infrastructures.
 
-## ChiliCode
+## [ChiliCode](https://www.chilicode.com)
 ### 2007 - now
 ChiliCode is a small Austrian software development and IT support company. We provide IT support and consultancy to our customers, helping them build IT infrastructure such as networks and backup strategies. We assist with installing, creating, and maintaining homepages, as well as creating mobile office solutions (webmail, web calendar, contacts, etc.). We develop custom software solutions for administrative tasks, web applications, and software to support their daily work. Additionally, we are involved in the development of various types of applications, ranging from database servers with synchronization to Java applications, web applications, and iOS apps. We build private cloud solutions for our customers and consult with them on the use of modern tools and applications according to their needs.
 
-## ChiliCode
+## [ChiliCode](https://www.chilicode.com)
 ### 2023 - now
 As a holder of a 'Certified Digital Consultant' certification, I am authorized to support and conduct publicly funded projects for and with my customers to assist them on their journey to digitalization.
 
-## Bosch
+## [Bosch](https://www.bosch.at)
 ### 2022 - now
 In my role as a 'Technical Expert' for Continuous Development Methods and Operations, I work with my team, which is spread across Germany, Austria, India, and Vietnam, to enable 20,000 developers to work with modern methodologies and state-of-the-art tools while fulfilling our legislative requirements for creating embedded software for the automotive industry.
 
-## Bosch
+## [Bosch](https://www.bosch.at)
 ### 2024 - now
 Since September 2024, I have officially also taken on the role of Head of Agile Planning Strategy in our department. My focus is on fostering the right mindset and culture, along with the most important basics of agility, within the organization.
 
@@ -70,6 +70,11 @@ Recording can be found here: [QED Talk on Youtube](https://www.youtube.com/watch
 
 ### AZ400T00: Designing and Implementing Microsoft DevOps Solutions
 I completed the official Microsoft training for designing and implementing DevOps solutions and applied it by implementing my first cloud-native services—bringing pipeline, release, and monitoring practices from the course into real projects.
+
+
+# Publications
+
+- **Bosch entwickelt Software für die Zukunft und setzt auf Cloud Collaboration** — Interview in KarriereReport (Robert Bosch AG) on Cloud Collaboration, asynchronous communication with customers, and bringing development environments into the cloud. [PDF](pubs/220212a139880.pdf)
 
 
 # Languages
