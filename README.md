@@ -6,7 +6,7 @@ name: | Hubert Baumgartner
 birthdate: | 5. March 1982
 address: | Dr. Galambos-Gasse 12, 7502 Unterwart, Austria
 email: | [hubert.baumgartner@chilicode.com](mailto:hubert.baumgartner@chilicode.com) · [bh82wi@bosch.com](mailto:bh82wi@bosch.com)
-website: | https://www.chilicode.com
+website: | [https://www.chilicode.com](https://www.chilicode.com)
 
 ---
 
@@ -24,14 +24,14 @@ Business Development, Start-ups, Entrepreneurship,
 
 1988 - 1992  | 	Volksschule Oberwart
 1992 - 2000 | Zweisprachiges Bundesgymnasium Oberwart
-2000 -  | Computer Science, TU Wien -  Software and Information Engineering
+2000 -  | Computer Science, [TU Wien](https://www.tuwien.at) — Software and Information Engineering
 
 
 # Work Experience
 
-## Technical University of Vienna
+## [Technical University of Vienna](https://www.tuwien.at)
 ### 2002 - 2005
-In my role as an assistant to the lecturing tutor, I wrote and reviewed scripts for lectures, wrote and reviewed exams, and held weekly meetings with groups of students to monitor their progress and help them prepare for the exams. During that time, I was already working in the field of Software Development Processes, getting my hands on a copy of 'Extreme Programming' by Kent Beck, which fueled my mind with ideas on how to improve work.
+In my role as an assistant to the lecturing tutor, I wrote and reviewed scripts for lectures, wrote and reviewed exams, and held weekly meetings with groups of students to monitor their progress and help them prepare for the exams. During that time, I was already working in the field of Software Development Processes, getting my hands on a copy of ['Extreme Programming'](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) by Kent Beck, which fueled my mind with ideas on how to improve work.
 
 ## [Bosch](https://www.bosch.at)
 ### 2005 - 2022
@@ -43,7 +43,7 @@ ChiliCode is a small Austrian software development and IT support company. We pr
 
 ## [ChiliCode](https://www.chilicode.com)
 ### 2023 - now
-As a holder of a 'Certified Digital Consultant' certification, I am authorized to support and conduct publicly funded projects for and with my customers to assist them on their journey to digitalization.
+As a holder of a [Certified Digital Consultant](https://www.ffg.at/digitalisierung) certification, I am authorized to support and conduct publicly funded projects for and with my customers to assist them on their journey to digitalization, including [KMU.DIGITAL](https://www.kmudigital.at) advisory and implementation funding.
 
 ## [Bosch](https://www.bosch.at)
 ### 2022 - now
@@ -57,7 +57,7 @@ Since September 2024, I have officially also taken on the role of Head of Agile 
 # Special Highlights
 
 ### GSVF 2019
-Speaker at the Grazer Symposion for Virtual Vehicle. Topic: Continuous Integration across roles and organizational units. Presenting the approach we choose at Bosch on how to scale Continuous Integration from small teams across multiple continents.
+Speaker at the [Grazer Symposion for Virtual Vehicle](https://www.v2v.at). Topic: Continuous Integration across roles and organizational units. Presenting the approach we choose at Bosch on how to scale Continuous Integration from small teams across multiple continents.
 
 ### GSVF 2021
 Speaker with a talk about Scaling Continuous Integration from local teams, over on-premise server farms to public cloud. In this presentation I describe what parameters we use to decide where to run what and which boundaries we have to take care of on our way into the cloud.
@@ -74,14 +74,14 @@ I completed the official Microsoft training for designing and implementing DevOp
 
 # Publications
 
-- **Bosch entwickelt Software für die Zukunft und setzt auf Cloud Collaboration** — Interview in KarriereReport (Robert Bosch AG) on Cloud Collaboration, asynchronous communication with customers, and bringing development environments into the cloud. [PDF](pubs/220212a139880.pdf)
+- **Bosch entwickelt Software für die Zukunft und setzt auf Cloud Collaboration** — Interview in [KarriereReport](https://www.bosch.at/karriere) (Robert Bosch AG) on Cloud Collaboration, asynchronous communication with customers, and bringing development environments into the cloud. [PDF](pubs/220212a139880.pdf)
 
 
 # Languages
 German, English, and Hungarian — fluent in speaking, reading, and writing.
 
 # Special Skills
-musician on drums (learned at music school for 13 years) and bassoon (learned at the Music University of Graz for 6 years), voluntary trainer at a youth basketball team ([getsgo.at](https://getsgo.at))
+musician on drums (learned at music school for 13 years) and bassoon (learned at the [Music University of Graz](https://www.kug.ac.at) for 6 years), voluntary trainer at a youth basketball team ([getsgo.at](https://getsgo.at))
 
 
 
