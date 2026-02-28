@@ -3,3 +3,6 @@ title: Curriculum Vitae
 description: Hubert Baumgartner
 
 logo: /imgs/profile.jpeg
+
+# Cleaner layout (no ZIP/TAR download buttons)
+show_downloads: false
