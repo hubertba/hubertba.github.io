@@ -76,7 +76,7 @@ I completed the official Microsoft training for designing and implementing DevOp
 German, English, and Hungarian — fluent in speaking, reading, and writing.
 
 # Special Skills
-musician on drums (learned at music school for 13 years) and bassoon (learned at the Music University of Graz for 6 years), voluntary trainer at a youth basketball team
+musician on drums (learned at music school for 13 years) and bassoon (learned at the Music University of Graz for 6 years), voluntary trainer at a youth basketball team ([getsgo.at](https://getsgo.at))
 
 
 
